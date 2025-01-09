@@ -10,6 +10,8 @@ class Person:
         enemy.health = max(enemy.health - damage, 0)
         
 
+def fights(player1, player2):
+    pass
 
 if __name__ == "__main__":
     pass
