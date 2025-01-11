@@ -1,1 +1,1 @@
-from classes import *
+from classes.main_classes import Person, fights
